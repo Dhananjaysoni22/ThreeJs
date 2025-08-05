@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cannon-es": "^0.15.1",
+    "dat.gui": "^0.7.9",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}

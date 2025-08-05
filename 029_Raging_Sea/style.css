@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.webgl{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
